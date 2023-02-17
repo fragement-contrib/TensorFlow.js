@@ -1,0 +1,24 @@
+{
+  "name": "tensorflow.js",
+  "version": "0.0.0",
+  "description": "TensorFlow.js学习和代码练习",
+  "scripts": {
+    "dev": "npm install && devby"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fragement-contrib/TensorFlow.js.git"
+  },
+  "keywords": [
+    "TensorFlow.js"
+  ],
+  "author": "zxl20070701",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fragement-contrib/TensorFlow.js/issues"
+  },
+  "homepage": "https://github.com/fragement-contrib/TensorFlow.js#readme",
+  "devDependencies": {
+    "devby": "^0.1.0"
+  }
+}
